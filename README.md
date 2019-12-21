@@ -1,4 +1,4 @@
-# cmake_vcpgk
+# cmake_vcpkg
 Small wrapper around vcpkg for cmake
 
 # Usage
